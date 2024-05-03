@@ -1,0 +1,17 @@
+body
+  {
+    background-color: royalblue;
+    background-repeat: no-repeat;
+    
+        }
+
+        h2
+        {color: white;
+        }
+
+
+        a:link {
+  color: white;
+  
+  text-decoration: none;
+}
